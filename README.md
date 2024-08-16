@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm a passionate **React Native Developer** with o
 ![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ### 📫 How to Reach Me
-- LinkedIn: [Sunil Kumawat](https://www.linkedin.com/in/your-linkedin)
-- Email: your.email@example.com
+- LinkedIn: [Sunil Kumawat](https://www.linkedin.com/in/sunil-kumawat-905498217/)
+- Email: sunilkumawat6268@gmail.com
 
 Feel free to explore my repositories, fork, and contribute to the projects! Let's build something amazing together.
 
