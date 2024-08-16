@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate **React Native Developer** with o
 - **Other Technologies**: JavaScript, HTML5, CSS3, Git, and more.
 
 ### 📈 GitHub Stats
-![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilkumawat6268&show_icons=true&theme=radical)
 
 ### 📫 How to Reach Me
 - LinkedIn: [Sunil Kumawat](https://www.linkedin.com/in/sunil-kumawat-905498217/)
