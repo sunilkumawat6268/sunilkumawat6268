@@ -32,7 +32,7 @@ I'm a passionate **React Native Developer** with over 3 years of experience, alo
 
 ## 📂 Featured Projects
 
-### 📱 [Awesome Mobile App](https://github.com/sunilkumawat6268/awesome-mobile-app)
+### 📱 [Awesome Mobile App](https://github.com/sunilkumawat6268/react-native-navigation-instagram)
 A high-performance mobile app built with React Native.
 
 ### 🌐 [Cool Web App](https://github.com/sunilkumawat6268/cool-web-app)
