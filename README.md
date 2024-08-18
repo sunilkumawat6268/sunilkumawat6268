@@ -1,6 +1,6 @@
 # Hi there, I'm Sunil Kumawat! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-SK-amplework&color=blueviolet) ![GitHub Followers](https://img.shields.io/github/followers/SK-amplework?label=Followers) ![Stars](https://img.shields.io/github/stars/SK-amplework?affiliations=OWNER%2CCOLLABORATOR)
+![Profile Views](https://komarev.com/ghpvc/?username=your-sunilkumawat6268&color=blueviolet) ![GitHub Followers](https://img.shields.io/github/followers/sunilkumawat6268?label=Followers) ![Stars](https://img.shields.io/github/stars/sunilkumawat6268?affiliations=OWNER%2CCOLLABORATOR)
 
 ## 🚀 About Me
 
@@ -21,15 +21,15 @@ I'm a passionate **React Native Developer** with over 3 years of experience, alo
 
 ## 🏆 GitHub Stats
 
-![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SK-amplework&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SK-amplework&layout=compact&theme=radical)
+![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilkumawat6268&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumawat6268&layout=compact&theme=radical)
 
 ## 📂 Featured Projects
 
-### 📱 [Awesome Mobile App](https://github.com/SK-amplework/awesome-mobile-app)
+### 📱 [Awesome Mobile App](https://github.com/sunilkumawat6268/awesome-mobile-app)
 A high-performance mobile app built with React Native.
 
-### 🌐 [Cool Web App](https://github.com/SK-amplework/cool-web-app)
+### 🌐 [Cool Web App](https://github.com/sunilkumawat6268/cool-web-app)
 A responsive web application created using React.js and Node.js.
 
 ## 📫 How to Reach Me
