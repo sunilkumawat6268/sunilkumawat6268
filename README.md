@@ -25,7 +25,7 @@ I'm a passionate **React Native Developer** with over 3 years of experience, alo
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## 🏆 GitHub Stats
+## 🏆🏆 GitHub Stats 🏆🏆
 
 ![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilkumawat6268&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumawat6268&layout=compact&theme=radical)
