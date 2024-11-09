@@ -6,7 +6,7 @@
 
 I'm a passionate **React Native Developer** with over 3 years of experience, along with 1.5 years of experience in **React.js**. My journey in software development has been driven by a relentless curiosity and a desire to create impactful applications.
 
-- 🔭 I’m currently working on: Building scalable mobile applications with React Native.
+- 🔭 I’m currently working on: Building scalable mobile applications with React Native. 
 - 🌱 I’m currently learning: Advanced TypeScript and performance optimization in React Native.
 - 💬 Ask me about: React Native, React.js, JavaScript, and front-end development.
 - ⚡ Fun fact: I’m a coffee enthusiast who loves debugging over a cup of espresso.
