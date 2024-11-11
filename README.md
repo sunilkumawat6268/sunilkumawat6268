@@ -11,7 +11,7 @@ I'm a passionate **React Native Developer** with over 3 years of experience, alo
 - 💬 Ask me about: React Native, React.js, JavaScript, and front-end development.
 - ⚡ Fun fact: I’m a coffee enthusiast who loves debugging over a cup of espresso.
 
-## 🛠️ My Skills  🛠️
+## 🛠️ My Skills  🛠️🛠️
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
